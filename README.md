@@ -22,5 +22,5 @@
 ---
 
 Quer ver o que estou construindo ou trocar ideia?  
-📫 Me chama por aqui: [seuemail@email.com ou LinkedIn]
+📫 Me chama por aqui: [isabelequeirozprofissional@gmail.com ou LinkedIn(https://www.linkedin.com/in/isabele-let%C3%ADcia-queiroz-359248268/)]
 
