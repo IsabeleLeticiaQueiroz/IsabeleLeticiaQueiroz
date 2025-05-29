@@ -8,7 +8,6 @@
 
 ### 🚧 Projetos em destaque:
 - [Site de Nutricionista](https://github.com/IsabeleLeticiaQueiroz/nutricionista_madu_paiva) – Landing page moderna e responsiva.
-- [To-Do List em React](link aqui se tiver) – Gerenciador de tarefas com React e manipulação de estados.
 
 ### 🛠️ Tecnologias e ferramentas:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
