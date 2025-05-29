@@ -1,15 +1,27 @@
-# Olá, eu sou a Isabele Letícia 👋
+# 👩‍💻 Olá, eu sou a Isabele Letícia!
 
 🎓 Técnica em Análise e Desenvolvimento de Sistemas  
-💻 Cursando Tecnólogo em Desenvolvimento de Software Multiplataforma  
-✨ Foco em Front-End com React, HTML, CSS, JavaScript e Bootstrap  
-🚀 Apaixonada por tecnologia, UI/UX e criar experiências incríveis para usuários  
-📚 Sempre em busca de novos aprendizados e desafios  
+🎓 Cursando Tecnólogo em Desenvolvimento de Software Multiplataforma  
+💡 Desenvolvedora com foco em Front-End e grande paixão por tecnologia, design e experiência do usuário  
 
-### 🚧 Projetos em destaque:
-- [Site de Nutricionista](https://github.com/IsabeleLeticiaQueiroz/nutricionista_madu_paiva) – Landing page moderna e responsiva.
+✨ Trabalho com:
+- Interfaces modernas e responsivas com **React**, **HTML**, **CSS**, **JavaScript** e **Bootstrap**
+- APIs, lógica de programação e ferramentas back-end com **Node.js** e **PHP**
+- Criação de projetos com atenção à performance, acessibilidade e usabilidade
 
-### 🛠️ Tecnologias e ferramentas:
+📌 Em constante aprendizado, adoro desafios que envolvam inovação, UI/UX e desenvolvimento de soluções que realmente façam a diferença!
+
+---
+
+## 💼 Projetos em destaque
+
+🔗 [Landing page para Nutricionista](https://github.com/IsabeleLeticiaQueiroz/nutricionista_madu_paiva)  
+Criação de uma interface moderna, responsiva e personalizada com foco na experiência do cliente.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -21,6 +33,8 @@
 
 ---
 
-Quer ver o que estou construindo ou trocar ideia?  
-📫 Me chama por aqui: [isabelequeirozprofissional@gmail.com ou LinkedIn (https://www.linkedin.com/in/isabele-let%C3%ADcia-queiroz-359248268/)]
+## 📬 Entre em contato
+
+📧 isabelequeirozprofissional@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/isabele-let%C3%ADcia-queiroz-359248268/)
 
