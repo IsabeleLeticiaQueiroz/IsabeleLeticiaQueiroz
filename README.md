@@ -18,6 +18,9 @@
 🔗 [Landing page para Nutricionista](https://github.com/IsabeleLeticiaQueiroz/nutricionista_madu_paiva)  
 Criação de uma interface moderna, responsiva e personalizada com foco na experiência do cliente.
 
+🔗 [MARSEVENTS – Projeto Integrador SENAI (PHP + MySQL)](https://github.com/IsabeleLeticiaQueiroz/MARSEVENTS-PROJETO-INTEGRADOR-SENAI-2023-)  
+Plataforma web para o comércio e organização de eventos, onde usuários podem criar, divulgar e comprar ingressos, além de conectar prestadores de serviços. Desenvolvido em PHP com banco de dados MySQL.
+
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -29,6 +32,7 @@ Criação de uma interface moderna, responsiva e personalizada com foco na exper
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
@@ -37,4 +41,3 @@ Criação de uma interface moderna, responsiva e personalizada com foco na exper
 
 📧 isabelequeirozprofissional@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/isabele-let%C3%ADcia-queiroz-359248268/)
-
