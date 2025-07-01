@@ -25,11 +25,19 @@
 ## 🏅 Certifications
 
 <p>
-  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFYo5REGb92bA/profile-treasury-image-shrink_800_800/B4DZfHDv_vGgAc-/0/1751391339110?e=1752001200&v=beta&t=2oe5cvSAI_HLrPQZG_uTb2UHtdeOMpS5SOstGUyM9pw" alt="5G Basics Huawei Badge" width="120" />
+  <!-- Huawei 5G Basics -->
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFYo5REGb92bA/profile-treasury-image-shrink_800_800/B4DZfHDv_vGgAc-/0/1751391339110?e=1752001200&v=beta&t=2oe5cvSAI_HLrPQZG_uTb2UHtdeOMpS5SOstGUyM9pw" alt="5G Basics Huawei Badge" width="110" />
   &nbsp;
+  <!-- Cisco Cybersecurity -->
   <a href="https://www.credly.com/badges/f7df2fa0-975e-455a-b3ad-acf57e281568" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Cybersecurity Badge" width="120" />
+    <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Cybersecurity Badge" width="110" />
   </a>
+  &nbsp;
+  <!-- Network Defense -->
+  <img src="https://images.credly.com/size/680x680/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Network Defense Badge" width="110" />
+  &nbsp;
+  <!-- Intro to IoT -->
+  <img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Intro to IoT Badge" width="110" />
 </p>
 
 ---
