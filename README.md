@@ -20,6 +20,17 @@
 
 ---
 
+## 🏅 Certifications
+
+### 📡 5G Basics – Huawei  
+<img src="[https://your-image-link.com](https://media.licdn.com/dms/image/v2/D4D2DAQFYo5REGb92bA/profile-treasury-image-shrink_800_800/B4DZfHDv_vGgAc-/0/1751391339110?e=1752001200&v=beta&t=2oe5cvSAI_HLrPQZG_uTb2UHtdeOMpS5SOstGUyM9pw)" alt="5G Basics Huawei Badge" width="150"/>
+
+### 🛡️ Introduction to Cybersecurity – Cisco  
+[![Cisco Cybersecurity Badge](https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf2-9ca7-5d116e888b3c/CyberEssentials_Badge__1_.png)](https://www.credly.com/badges/f7df2fa0-975e-455a-b3ad-acf57e281568)
+
+---
+
+
 ## 💼 Featured Projects
 
 ### [Nutritionist Madu Paiva Landing Page](https://github.com/IsabeleLeticiaQueiroz/nutricionista_madu_paiva)  
