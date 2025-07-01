@@ -61,13 +61,18 @@ Web platform for events with user management, sales, and services, emphasizing s
 
 ## 📊 GitHub Stats
 
+<!-- Painel principal (à esquerda) -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabeleLeticiaQueiroz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+</p>
+
+<!-- Outros painéis (centralizados) -->
 <p align="center">
-  <!-- GitHub Activity Graph -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabeleLeticiaQueiroz&theme=radical" height="180"/>
   &nbsp;&nbsp;
-  <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=IsabeleLeticiaQueiroz&label=Profile+Views&color=DB2777&style=flat-square" height="30"/>
 </p>
+
 ---
 
 > "Learning never exhausts the mind." – Leonardo da Vinci
