@@ -61,7 +61,11 @@ Web platform for events with user management, sales, and services, emphasizing s
 
 ## 📊 GitHub Stats
 
-![Isabele's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabeleLeticiaQueiroz&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabeleLeticiaQueiroz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Isabele's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=IsabeleLeticiaQueiroz&label=Profile%20Views&color=F29F05&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
