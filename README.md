@@ -54,9 +54,8 @@ Web platform for events with user management, sales, and services, emphasizing s
 
 ## 📫 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/-Instagram-DB2777?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seu_instagram)
 [![Email](https://img.shields.io/badge/-Email-F29F05?style=flat&logo=gmail&logoColor=white)](mailto:isabelequeirozprofissional@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-DB2777?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabele-let%C3%ADcia-queiroz-359248268/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-DB2777?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabele-leticia-queiroz-359248268/)
 
 ---
 
