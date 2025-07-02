@@ -61,17 +61,31 @@ Web platform for events with user management, sales, and services, emphasizing s
 
 ## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Overview Stats (esquerda) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=IsabeleLeticiaQueiroz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+    </td>
+    <td>
+      <!-- Gráfico de linguagens usadas (direita) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeleLeticiaQueiroz&layout=compact&theme=radical" height="180"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Gráfico grande de detalhes do perfil (embaixo, centralizado) -->
 <p align="center">
-  <!-- GitHub Overview Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabeleLeticiaQueiroz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <!-- GitHub Activity Graph -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabeleLeticiaQueiroz&theme=radical" height="180"/>
-  &nbsp;&nbsp;
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=IsabeleLeticiaQueiroz&label=Profile+Views&color=DB2777&style=flat-square" height="30"/>
 </p>
 
 ---
+
+<!-- Profile Views Badge (embaixo, centralizado) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsabeleLeticiaQueiroz&label=Profile+Views&color=DB2777&style=flat-square" height="30"/>
+</p>
+
+ ---
 
 > "Learning never exhausts the mind." – Leonardo da Vinci
