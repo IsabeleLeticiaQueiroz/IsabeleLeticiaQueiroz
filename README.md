@@ -26,7 +26,7 @@
 
 <p>
   <!-- Huawei 5G Basics -->
-  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFYo5REGb92bA/profile-treasury-image-shrink_800_800/B4DZfHDv_vGgAc-/0/1751391339110?e=1752001200&v=beta&t=2oe5cvSAI_HLrPQZG_uTb2UHtdeOMpS5SOstGUyM9pw" alt="5G Basics Huawei Badge" width="110" />
+  <img src="https://jpcdn.it/img/7032be40c625382735106dc0d4e60dd8.png" alt="5G Basics Huawei Badge" width="110" />
   &nbsp;
   <!-- Cisco Cybersecurity -->
   <a href="https://www.credly.com/badges/f7df2fa0-975e-455a-b3ad-acf57e281568" target="_blank">
