@@ -38,7 +38,7 @@
   &nbsp;
   <!-- Intro to IoT -->
   <img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Intro to IoT Badge" width="110" />
-  
+  &nbsp;
   <a href="https://www.credly.com/badges/974c3d26-3b94-48c8-a221-f90f21f0eabf/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="Cisco Cybersecurity Badge" width="110" />
   </a>
