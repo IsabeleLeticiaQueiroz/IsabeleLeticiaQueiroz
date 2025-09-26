@@ -43,7 +43,16 @@
     <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="Cisco Cybersecurity Badge" width="110" />
   </a>
 </p>
-
+<p>
+  <img src="https://badge.cps.sp.gov.br/_files/8ee8a13ab3864c6ca564f958e908e4a3.png" alt="Design Patterns FATEC" width="110" />
+  &nbsp;
+  <a href="https://www.credly.com/badges/f7df2fa0-975e-455a-b3ad-acf57e281568" target="_blank">
+    <img src="https://badge.cps.sp.gov.br/_files/b60cffba169142bd896fc92cc3ed64db.png" alt="Dev front FATEC" width="110" />
+  </a>
+  &nbsp;
+  <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" alt="Front-end Fatec" width="110" />
+  &nbsp;
+</p>
 ---
 
 ## 💼 Featured Projects
