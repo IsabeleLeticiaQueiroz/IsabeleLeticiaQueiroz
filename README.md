@@ -25,18 +25,14 @@
 ## 🏅 Certifications
 
 <p>
-  <!-- Huawei 5G Basics -->
   <img src="https://jpcdn.it/img/7032be40c625382735106dc0d4e60dd8.png" alt="5G Basics Huawei Badge" width="110" />
   &nbsp;
-  <!-- Cisco Cybersecurity -->
   <a href="https://www.credly.com/badges/f7df2fa0-975e-455a-b3ad-acf57e281568" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Cisco Cybersecurity Badge" width="110" />
   </a>
   &nbsp;
-  <!-- Network Defense -->
   <img src="https://images.credly.com/size/680x680/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Network Defense Badge" width="110" />
   &nbsp;
-  <!-- Intro to IoT -->
   <img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Intro to IoT Badge" width="110" />
   &nbsp;
   <a href="https://www.credly.com/badges/974c3d26-3b94-48c8-a221-f90f21f0eabf/public_url" target="_blank">
@@ -46,14 +42,12 @@
 <p>
   <img src="https://badge.cps.sp.gov.br/_files/8ee8a13ab3864c6ca564f958e908e4a3.png" alt="Design Patterns FATEC" width="110" />
   &nbsp;
-  <a href="https://www.credly.com/badges/f7df2fa0-975e-455a-b3ad-acf57e281568" target="_blank">
-    <img src="https://badge.cps.sp.gov.br/_files/b60cffba169142bd896fc92cc3ed64db.png" alt="Dev front FATEC" width="110" />
-  </a>
+  <img src="https://badge.cps.sp.gov.br/_files/b60cffba169142bd896fc92cc3ed64db.png" alt="Dev front FATEC" width="110" />
   &nbsp;
   <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" alt="Front-end Fatec" width="110" />
   &nbsp;
 </p>
----
+
 
 ## 💼 Featured Projects
 
