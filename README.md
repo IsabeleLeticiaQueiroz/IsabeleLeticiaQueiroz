@@ -38,8 +38,6 @@
   <a href="https://www.credly.com/badges/974c3d26-3b94-48c8-a221-f90f21f0eabf/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="Cisco Cybersecurity Badge" width="110" />
   </a>
-</p>
-<p>
   <img src="https://badge.cps.sp.gov.br/_files/8ee8a13ab3864c6ca564f958e908e4a3.png" alt="Design Patterns FATEC" width="110" />
   &nbsp;
   <img src="https://badge.cps.sp.gov.br/_files/b60cffba169142bd896fc92cc3ed64db.png" alt="Dev front FATEC" width="110" />
