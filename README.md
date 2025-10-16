@@ -2,7 +2,7 @@
 
 🎓 Technical Degree in Systems Analysis and Development  
 🎓 Undergraduate in Multiplatform Software Development (in progress)  
-💻 Full Stack Developer passionate about technology, design, and digital security
+💻 Full Stack Developer passionate about technology and design.
 
 ---
 
