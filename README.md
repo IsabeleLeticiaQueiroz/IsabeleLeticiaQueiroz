@@ -1,6 +1,7 @@
+<!-- 🌸 README by Isabele Letícia - Rosa Clean com Sylvanian Families -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9f/3f/64/9f3f64b9a7b3d92362a5b5300f958258.gif" alt="Sylvanian Families Animation" width="300"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Sylvanian Families Animation" width="300"/>
 </p>
 
 <h1 align="center">🌷 Hello, I'm <span style="color:#db2777;">Isabele Letícia</span>!</h1>
@@ -31,11 +32,25 @@
 ### 🎖️ Certifications
 
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="90" />
+  <img src="https://jpcdn.it/img/7032be40c625382735106dc0d4e60dd8.png" width="90" />
+  &nbsp;
+  <a href="https://www.credly.com/badges/f7df2fa0-975e-455a-b3ad-acf57e281568" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="90" />
+  </a>
+  &nbsp;
   <img src="https://images.credly.com/size/680x680/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="90" />
+  &nbsp;
   <img src="https://images.credly.com/size/680x680/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="90" />
+  &nbsp;
+  <a href="https://www.credly.com/badges/974c3d26-3b94-48c8-a221-f90f21f0eabf/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" width="90" />
+  </a>
+  &nbsp;
   <img src="https://badge.cps.sp.gov.br/_files/8ee8a13ab3864c6ca564f958e908e4a3.png" width="90" />
+  &nbsp;
   <img src="https://badge.cps.sp.gov.br/_files/b60cffba169142bd896fc92cc3ed64db.png" width="90" />
+  &nbsp;
+  <img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" width="90" />
 </p>
 
 ---
