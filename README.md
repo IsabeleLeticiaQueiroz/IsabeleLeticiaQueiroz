@@ -7,7 +7,7 @@
 <h1 align="center">🌷 Hello, I'm <span style="color:#db2777;">Isabele Letícia</span>!</h1>
 
 <p align="center">
-  🎓 Systems Analysis & Development | 💻 Full Stack Developer <br/>
+  🎓 Systems Analysis & Development | 💻 Front end Developer <br/>
   ✨ Passionate about design, code, and all things cute!
 </p>
 
