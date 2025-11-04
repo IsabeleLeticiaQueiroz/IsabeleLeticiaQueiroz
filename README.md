@@ -68,12 +68,12 @@ Event management platform with a focus on usability and security.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabeleLeticiaQueiroz&show_icons=true&theme=panda&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeleLeticiaQueiroz&layout=compact&theme=mauve&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsabeleLeticiaQueiroz&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&title_color=ffb6c1&text_color=ffb6c1&icon_color=db2777" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeleLeticiaQueiroz&layout=compact&theme=default&bg_color=ffffff&hide_border=true&title_color=ffb6c1&text_color=ffb6c1&icon_color=db2777" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabeleLeticiaQueiroz&theme=panda" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabeleLeticiaQueiroz&theme=default&bg_color=ffffff&hide_border=true&title_color=ffb6c1&text_color=ffb6c1&icon_color=db2777" height="180"/>
 </p>
 
 ---
