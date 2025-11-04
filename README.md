@@ -57,10 +57,10 @@
 
 ### 💼 Featured Projects
 
-💖 [**Nutritionist Madu Paiva Landing Page**](https://github.com/IsabeleLeticiaQueiroz/nutricionista_madu_paiva)  
+🌸 [**Nutritionist Madu Paiva Landing Page**](https://github.com/IsabeleLeticiaQueiroz/nutricionista_madu_paiva)  
 Modern and responsive website focused on UX and clean aesthetics.
 
-🌸 [**MARSEVENTS – SENAI Integrative Project**](https://github.com/IsabeleLeticiaQueiroz/MARSEVENTS-PROJETO-INTEGRADOR-SENAI-2023-)  
+💖 [**MARSEVENTS – SENAI Integrative Project**](https://github.com/IsabeleLeticiaQueiroz/MARSEVENTS-PROJETO-INTEGRADOR-SENAI-2023-)  
 Event management platform with a focus on usability and security.
 
 ---
