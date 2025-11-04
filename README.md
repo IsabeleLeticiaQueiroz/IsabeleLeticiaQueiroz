@@ -1,7 +1,7 @@
 <!-- 🌸 README by Isabele Letícia - Rosa Clean com Sylvanian Families -->
 
 <p align="center">
-  <img src="./assets/giphy.gif" alt="Sylvanian Families Animation" width="300"/>
+  <img src="./assets/giphy.gif" alt="Sylvanian Families Animation" width="200"/>
 </p>
 
 <h1 align="center">🌷 Hello, I'm <span style="color:#db2777;">Isabele Letícia</span>!</h1>
